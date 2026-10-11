@@ -67,7 +67,7 @@ Also: gRPC, JWT, Playwright. I pick the tool that fits the problem rather than t
 
 ---
 
-## Before engineering
+## Before software engineering
 
 At 19, I built and sold a book-summary product on my own: wrote the content, built the store, ran the ads, made real revenue, then made it free. I also led a sponsorship pitch that funded the renovation of a mountain-village school. The full story is on the [timeline](https://yahyaelomari.com/timeline).
 
